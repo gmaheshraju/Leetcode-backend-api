@@ -8,4 +8,4 @@ import the postman collection.
 
 go through the index.js code
 
-start testig, debugging your first api
+start testing, debugging your first api
