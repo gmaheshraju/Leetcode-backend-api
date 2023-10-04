@@ -6,7 +6,7 @@ This Project uses Express http server to build simple api's to get started with 
 
 This is an example Express API project that demonstrates user authentication, question submission, and submission management.
 
-# API Endpoints
+# API Endpoints Details
 ## Sign Up
 Endpoint: POST /signup
 Description: Allows a user to sign up by providing an email and password.
