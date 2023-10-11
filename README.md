@@ -16,7 +16,7 @@ Description: Allows a user to log in by providing their email and password.
 ## Submissions
 Endpoint: GET /submissions
 
-Description: Retrieves the user's submissions for a specific problem.
+Description: Retrieves the user's submissions for a specific problem statement.
 
 Endpoint: POST /submissions
 
