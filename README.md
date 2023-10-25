@@ -20,7 +20,7 @@ Description: Retrieves the user's submissions for a specific problem statement.
 
 Endpoint: POST /submissions
 
-Description: Allows a user to submit a problem solution, with the solution being randomly accepted or rejected.
+Description: Allows a user to submit a problem solution, with  solution being randomly accepted or rejected.
 
 ##Questions
 Endpoint: GET /questions
